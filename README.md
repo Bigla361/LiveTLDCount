@@ -1,5 +1,5 @@
 # LiveTLDCount
-### A simple (terribly programmed) site that displays the amount of Top Level Domains exist live.
+### A simple (terribly programmed) site that displays the amount of Top Level Domains that exist live.
 Data sourced from [IANA](https://iana.org).
 #### Features
 
